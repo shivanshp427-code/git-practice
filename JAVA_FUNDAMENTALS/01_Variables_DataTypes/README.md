@@ -1,18 +1,16 @@
-﻿# 📦 Chapter 01: Variables, Data Types & I/O
+﻿# Chapter 01: Variables & Data Types
 
-This module contains foundational implementations focusing on Java memory allocation, primitives, and user input streams.
+Basic programs I wrote while getting started with Java syntax, input handling, and data types.
 
-## 📌 Topics Covered
-1. **Primitive Data Types:** yte, short, int, long, loat, double, char, oolean
-2. **Type Casting:** Implicit widening vs. explicit narrowing conversions
-3. **Scanner Stream:** Utilizing java.util.Scanner for interactive terminal input
-4. **Geometric Computations:** Calculating area, volume, and simple interest formulas
+## What I Practiced Here
+1. **Data Types & Sizes:** Working with int, float, double, char, long, and boolean.
+2. **Scanner Inputs:** Taking integer, double, and character inputs from user.
+3. **ASCII & Type Casting:** Converting char to int to see ASCII values and type conversions.
+4. **Formulas:** Circle area, sphere volume, cuboid total surface area, simple interest.
+5. **Unary Operators:** Testing pre-increment vs post-increment (++x vs x++).
 
-## 💻 Key Implementations
-- rea_of_circle.java - Precision radius calculations
-- input_square_of_number.java - Input stream reading and power evaluation
-- data_types.java - Demonstrating size limits and memory representation
-- ASCII_values.java - Type conversion between characters and integer ASCII tables
-
----
-*Clean, modular, and verified.*
+## Important Files
+- rea_of_circle.java - Basic formula execution with double
+- input_radius.java - Reading inputs via Scanner
+- ASCII_values.java - Character to int casting
+- data_types.java - Testing limits of primitives
