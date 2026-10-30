@@ -12,3 +12,4 @@ Iterative problem-solving focusing on or and while loops, mathematical series, 
 - sum_of_digits.java - Iterative digit extraction
 - prime_or_composite.java & sqrt_com_prime.java - O(sqrt(N)) prime checking logic
 - actorial.java & _power_b.java - Iterative math accumulation
+
