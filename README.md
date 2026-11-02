@@ -11,6 +11,7 @@ Author: Shivansh Patel
 - [x] Day 3: Pattern Printing
 - [x] Day 3: Methods & Functions
 - [x] Day 4: Number Theory & Problem Solving Practice
+- [x] Day 5: Core Java Mixed Revision
 
 ## Folder Guide
 - JAVA_FUNDAMENTALS/01_Variables_DataTypes: Basics, memory sizes, ASCII conversions, and geometry formulas.
@@ -20,3 +21,4 @@ Author: Shivansh Patel
 - JAVA_FUNDAMENTALS/05_Patterns: Grid matrices, triangle coordinates, space handling, and symmetrical patterns.
 - JAVA_FUNDAMENTALS/06_Functions_Methods: Modular functions, pass-by-value mechanics, math formulas, and base conversions.
 - JAVA_FUNDAMENTALS/07_QUESTIONS: Mixed problem solving on digits, Armstrong numbers, primes, factorials, and series.
+- JAVA_FUNDAMENTALS/08_Revision: Mixed problem solving across conditions, primes, factorials, and base conversions.
